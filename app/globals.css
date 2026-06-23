@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #0f172a;
+  color: #e2e8f0;
+  background-image: 
+    radial-gradient(at 0% 0%, rgba(30, 58, 138, 0.3) 0, transparent 50%), 
+    radial-gradient(at 100% 100%, rgba(79, 70, 229, 0.2) 0, transparent 50%);
+  background-attachment: fixed;
+}
