@@ -5,8 +5,9 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  // Tambahkan base path jika diperlukan, 
-  // tapi untuk sekarang coba tanpa ini dulu
+  // INI BAGIAN PALING PENTING:
+  basePath: '/my-personal-blog', 
+  assetPrefix: '/my-personal-blog/', 
 };
 
 export default nextConfig;
