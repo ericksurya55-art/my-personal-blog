@@ -55,7 +55,7 @@ export default function Portfolio() {
             <div className="relative w-64 h-80 md:w-80 md:h-[450px] bg-slate-800 rounded-2xl overflow-hidden border border-white/10">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img 
-                src="https://ericksurya55-art.github.io/my-personal-blog/portofolio/foto-profil.jpg" 
+                src="https://ericksurya55-art.github.io/my-personal-blog/portofolio/konten1.jpeg" 
                 alt="Profile" 
                 className="object-cover rounded-xl w-full h-full" 
               />
