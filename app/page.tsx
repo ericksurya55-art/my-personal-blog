@@ -8,16 +8,16 @@ import ScrollReveal from '@/components/ScrollReveal';
 // Data gambar contoh untuk setiap kategori portofolio (Total 6 gambar didistribusikan)
 const projectImages = {
   "Design Poster": [
-    { src: "${basePath}/portofolio/SEGERA TERBIT.png", title: "Poster Event Seni" },
-    { src: "${basePath}/portofolio/Data dan Statistika Poster.png", title: "Branding Poster Promosi" }
+    { src: "portofolio/SEGERA TERBIT.png", title: "Poster Event Seni" },
+    { src: "portofolio/Data dan Statistika Poster.png", title: "Branding Poster Promosi" }
   ],
   "UI/UX Design": [
-    { src: "${basePath}/portofolio/SEGERA TERBIT.png", title: "Mobile Apps Redesign" },
-    { src: "${basePath}/portofolio/SEGERA TERBIT.png", title: "Dashboard Analytic Interface" }
+    { src: "portofolio/SEGERA TERBIT.png", title: "Mobile Apps Redesign" },
+    { src: "portofolio/SEGERA TERBIT.png", title: "Dashboard Analytic Interface" }
   ],
   "Content Creator": [
-    { src: "${basePath}/portofolio/konten1.jpeg", title: "Social Media Feed Campaign" },
-    { src: "${basePath}/portofolio/konten2.jpeg", title: "Audio Visual Content Asset" }
+    { src: "portofolio/konten1.jpeg", title: "Social Media Feed Campaign" },
+    { src: "portofolio/konten2.jpeg", title: "Audio Visual Content Asset" }
   ]
 };
 
