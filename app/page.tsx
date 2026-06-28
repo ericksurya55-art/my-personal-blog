@@ -8,16 +8,16 @@ import ScrollReveal from '@/components/ScrollReveal';
 // Data gambar contoh untuk setiap kategori portofolio (Total 6 gambar didistribusikan)
 const projectImages = {
   "Design Poster": [
-    { src: "./portofolio/konten1.jpeg", title: "Poster Event Seni" },
-    { src: "./portofolio/konten1.jpeg", title: "Branding Poster Promosi" }
+    { src: "https://ericksurya55-art.github.io/my-personal-blog/portofolio/konten1.jpeg", title: "Desain Poster Konser Musik" },
+    { src: "https://ericksurya55-art.github.io/my-personal-blog/portofolio/konten2.jpeg", title: "Poster Grand Opening Toko" }
   ],
   "UI/UX Design": [
-    { src: "./portofolio/konten1.jpeg", title: "Mobile Apps Redesign" },
-    { src: "./portofolio/konten1.jpeg", title: "Dashboard Analytic Interface" }
+    { src: "https://ericksurya55-art.github.io/my-personal-blog/portofolio/konten1.jpeg", title: "Aplikasi E-Commerce Kopi" },
+    { src: "https://ericksurya55-art.github.io/my-personal-blog/portofolio/konten2.jpeg", title: "Web Landing Page Travel" }
   ],
   "Content Creator": [
-    { src: "./portofolio/konten1.jpeg", title: "Social Media Feed Campaign" },
-    { src: "./portofolio/konten2.jpeg", title: "Audio Visual Content Asset" }
+    { src: "https://ericksurya55-art.github.io/my-personal-blog/portofolio/konten2.jpeg", title: "Feeds Instagram Ramadhan" },
+    { src: "https://ericksurya55-art.github.io/my-personal-blog/portofolio/konten1.jpeg", title: "Konten TikTok Branding" }
   ]
 };
 
