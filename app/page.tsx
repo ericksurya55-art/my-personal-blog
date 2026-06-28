@@ -53,13 +53,11 @@ export default function Portfolio() {
           <div className="relative group">
             <div className="absolute -inset-1 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-2xl blur opacity-25 group-hover:opacity-50 transition duration-1000"></div>
             <div className="relative w-64 h-80 md:w-80 md:h-[450px] bg-slate-800 rounded-2xl overflow-hidden border border-white/10">
-              <Image 
-                src="/portofolio/MG_2421.JPG" 
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img 
+                src="https://ericksurya55-art.github.io/my-personal-blog/portofolio/konten1.jpeg" 
                 alt="Profile" 
-                width={500}
-                height={500}
-                className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-                unoptimized
+                className="object-cover rounded-xl w-full h-full" 
               />
             </div>
           </div>
